@@ -1,0 +1,72 @@
+ [
+    {
+        "id": 1,
+        "name": "Institute of Bangladesh Studies",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "Institute of Business Administration",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "Institute of Education and Research",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "name": "Institute of Biological Sciences",
+        "image": ""
+    },
+    {
+        "id": 5,
+        "name": "Institute of Environmental Science",
+        "image": "../../../images/Arts.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Institute of English and Other Languages",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "name": "Faculty of Arts",
+        "image": ""
+    },
+    {
+        "id": 8,
+        "name": "Faculty of Law",
+        "image": ""
+    },
+    {
+        "id": 9,
+        "name": "Faculty of Science",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "name": "Faculty of Business Studies",
+        "image": ""
+    },
+    {
+        "id": 11,
+        "name": "Faculty of Agriculture",
+        "image": ""
+    },
+    {
+        "id": 12,
+        "name": "Faculty of Biological Sciences",
+        "image": ""
+    },
+    {
+        "id": 13,
+        "name": "Faculty of Engineering",
+        "image": " "
+    },
+    {
+        "id": 14,
+        "name": "Faculty of Fine Arts",
+        "image": ""
+    }
+]

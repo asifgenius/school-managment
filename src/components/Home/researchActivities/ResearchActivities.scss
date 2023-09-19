@@ -1,0 +1,70 @@
+.research-activities-container {
+    .text-margin {
+        display: flex;
+        justify-content: center;
+
+        hr {
+            width: 70px;
+            border: 2px solid yellow;
+            opacity: 1;
+        }
+
+    }
+
+    .react-multi-carousel-list {
+        height: 230px;
+
+        .research-activities {
+            transform: translate3d(20px, 0px, 2px);
+            transition: all 0.2s, ease 0s;
+            display: flex;
+
+            .research-activities-card {
+                img {
+                    display: block;
+                    height: auto;
+                    width: 100%;
+                    cursor: pointer;
+
+                }
+
+                a,
+                p {
+                    font-size: 18px;
+                    text-align: center;
+                    text-decoration: none;
+                    color: black;
+                    cursor: pointer;
+
+                }
+
+                a,
+                p:hover {
+                    font-size: 18px;
+                    text-align: center;
+                    text-decoration: none;
+                    color: blue;
+                    cursor: pointer;
+
+                }
+
+                .research-activities-card-text {
+                    text-align: end;
+                }
+
+                .research-activities-button {
+                    border: 2px solid #292972;
+                    border-radius: 50px;
+                    background-color: transparent;
+                }
+
+                .research-activities-button:hover {
+                    border: 2px solid #292972;
+                    border-radius: 50px;
+                    background-color: #292972;
+                    color: white;
+                }
+            }
+        }
+    }
+}

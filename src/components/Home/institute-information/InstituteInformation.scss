@@ -1,0 +1,31 @@
+.institute-information-container {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 35px;
+
+    .institute-information {
+        // padding: 10px 10px 10px 20px;
+        padding: 15px 10px 3px 20px;
+        background-color: #171F32;
+        color: white;
+
+        h3 {
+            font-size: 20px;
+            font-family: "Roboto", Sans-serif;
+        }
+
+        .institute-information-image {
+            color: #FF5900;
+            margin-right: 20px;
+            height: 40px;
+            margin-top: 9px;
+        }
+
+        .institute-information-image-book{
+            color: #FF5900;
+            margin-right: 20px;
+            height: 40px;
+            margin-top: 13px;
+        }
+    }
+}

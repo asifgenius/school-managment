@@ -1,0 +1,38 @@
+.notice-board-container{
+.notice-board{
+    display: flex;
+    justify-content: center;
+}
+.notice-board-text{
+    margin-left: 35px;
+}
+.notice-board-link{
+    border: 2px dotted gray;
+    width: 609px;
+    padding: 29px;
+    padding-left: 58px;
+    margin-left: 30px;
+    h4{
+        text-align: center;
+    }
+   a {
+        text-decoration: none;
+        color: black;
+    }
+    a:hover {
+        text-decoration: none;
+        color: blue;
+    }
+    .text-margin {
+        display: flex;
+        justify-content: center;
+      
+        hr {
+            width: 70px;
+            border: 2px solid yellow;
+            opacity: 1;
+        }
+      
+      }
+}
+}

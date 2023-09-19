@@ -1,0 +1,30 @@
+.footer-container{
+background-color: black;
+    a {
+        text-decoration: none;
+        color: white;
+    }
+    a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+.footer-link{
+    color: white;
+    margin-left: 120px;
+    padding-top: 23px;
+    font-size: 21px;
+}
+    .footer-text{
+        color: white;
+        background-color: #5a5a5a;
+        text-align: center;
+        height: 30px;
+        display: flex;
+        padding: 30px;
+        justify-content: center;
+    }
+    p{
+        display: flex;
+        align-items: center;
+    }
+}
